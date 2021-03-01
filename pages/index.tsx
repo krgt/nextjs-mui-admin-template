@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import pele from 'maradona'
 
 export default function Home() {
   return (
