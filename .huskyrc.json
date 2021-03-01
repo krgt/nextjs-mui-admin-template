@@ -1,6 +1,7 @@
 {
   "hooks": {
     "pre-commit": [
+      "echo husky",
       "lint-staged"
     ]
   }
