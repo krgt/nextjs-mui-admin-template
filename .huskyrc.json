@@ -1,7 +1,7 @@
 {
   "hooks": {
     "pre-commit": [
-      "eslint '/**' --fix"
+      "lint-staged"
     ]
   }
 }
