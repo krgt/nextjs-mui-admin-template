@@ -1,8 +1,6 @@
 import Head from 'next/head'
-import pele from 'maradona'
-import madarona from 'madarona'
 
-export default function Home() {
+const Home: React.FC = () => {
   return (
     <div>
       <Head>
@@ -16,3 +14,5 @@ export default function Home() {
     </div>
   )
 }
+
+export default Home
