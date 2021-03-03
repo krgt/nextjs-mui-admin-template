@@ -27,6 +27,8 @@
     "space-before-function-paren": "off",
     "react/prop-types": "off",
     "@typescript-eslint/consistent-type-definitions": "off",
-    "@typescript-eslint/strict-boolean-expressions:": "off"
+    "@typescript-eslint/strict-boolean-expressions:": "off",
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"]
   }
 }
